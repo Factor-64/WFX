@@ -1497,6 +1497,10 @@ IWRAM_CODE int run3d(void)
             run_endless3d(&level, obj3d);
             level.current_position += level.speed;
         }
+        else if(dead)
+        {
+            current_state = GS_init3d;
+        }
     }
     return dma;
 }
