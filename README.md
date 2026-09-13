@@ -1,9 +1,12 @@
 # WFX
 Wireframe 3D Engine for the GBA. Made for GBA Jam 2026
 
-Code and Audio by Factor
+Code & Audio by Factor
 
 Models by Factor & MegahogX
+
+## Building
+Follow the libtonc [setup instructions](https://gbadev.net/tonc/setup.html) then just run `make`
 
 ## License
 
