@@ -1,0 +1,18 @@
+{
+    "health": "INT_MAX",
+    "damage": 0,
+    "color": 8,
+    "aabb": {
+        "type": "aabb",
+        "min": [
+            -48,
+            -45,
+            -5
+        ],
+        "max": [
+            47,
+            50,
+            8
+        ]
+    }
+}

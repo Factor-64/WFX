@@ -1,0 +1,6 @@
+# font.grit
+-gb         # bitmap
+-gu8        # 8bit data
+-gB1        # 1bpp bitmap
+-pS         # shared palette
+-m!         # no tilemap
